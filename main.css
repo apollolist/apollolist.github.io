@@ -1,5 +1,5 @@
 h1 {
-    animation: flashy 10s alternate linear;
+    animation: flashy 10s alternate infinite linear;
 }
 
 @keyframes flashy {
