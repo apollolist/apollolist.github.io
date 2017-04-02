@@ -1,9 +1,8 @@
 h1 {
-    color: red;
     animation: flashy 1s infinite linear;
 }
 
-@key_frames flashy {
+@keyframes flashy {
   0% {
     color: red;
   }
